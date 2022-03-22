@@ -30,7 +30,7 @@ const Dashboard = () => {
         <Fragment>
           <h1>Dashboard</h1>
           <h2>Hello {userEmail}!</h2>
-          {/* <SkulptModule></SkulptModule> */}
+          <SkulptModule></SkulptModule>
           
         </Fragment>
      
